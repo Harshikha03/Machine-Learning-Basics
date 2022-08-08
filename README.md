@@ -29,4 +29,37 @@ How Machine learning works?
   a.	If prediction is correct that is the Output
   
   b.	If prediction is incorrect retrain the algorithm
+  
+# Contents
+1. Supervised Learning
+ 1. Classification
+  1. Logistic Regression
+  2. K-Nearest neighbor
+  3. Supporort Vector Machine
+  4. Decision Tree
+  5. Random Forest
+  6. Naive Bayes
+  7. Neural Networks
+  8. Stochastic Gradient Descent
+ 2. Regression
+  1. Linear Regression
+  2. Logistic Regression
+  3. Polynomial Regression 
+2. Unsupervised Learning 
+ 1. Clustering
+  1. Principal Component Analysis
+  2. Hierarchical Clustering
+  3. Singular Value Decomposition
+  4. Independent Component Analysis
+  5. K-Means Clustering
+ 2. Association
+3.Reinforcement Learning
+ 1. 3 Ways of Implementation
+  1. Model BAsed
+  2. Policy Based
+  3. Value Based
+ 2. Model 
+  1. Q-Learning
+  2. Markov Decision Process
+  
 
