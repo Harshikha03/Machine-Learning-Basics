@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine-Learning Basics
 Machine Learning concept and models
 
 What is Machine learning?
